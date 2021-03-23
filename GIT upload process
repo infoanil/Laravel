@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "Added REST Api"
+git branch -M main
+git remote add origin https://github.com/infoanil/Laravel-upload-file-.git
+git push -u origin main
+
